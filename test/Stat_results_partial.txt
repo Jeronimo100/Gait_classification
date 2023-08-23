@@ -1,0 +1,234 @@
+##################################
+Stats for sliding window size: 0
+
+Decision tree statsAccuracy of decision trees: 1.0
+Precision of decision trees: 1.0
+Recall of decision trees: 1.0
+F1-score of decision trees: 1.0
+RocAuc score of decision trees: 1.0
+
+Naive Bayes statsAccuracy of naive bayes: 0.8333333333333334
+Precision of naive bayes: 0.75
+Recall of naive bayes: 1.0
+F1-score of naive bayes: 0.8571428571428571
+RocAuc score of naive bayes: 0.8333333333333334
+
+SVM statsAccuracy of SVM: 1.0
+Precision of SVM: 1.0
+Recall of SVM: 1.0
+F1-score of SVM: 1.0
+RocAuc score of SVM: 1.0
+
+Random Forest statsAccuracy of Random Forest: 1.0
+Precision of Random Forest: 1.0
+Recall of Random Forest: 1.0
+F1-score of Random Forest: 1.0
+RocAuc score of Random Forest: 1.0
+
+Logistic Regression statsAccuracy of Logistic Regression: 1.0
+Precision of Logistic Regression: 1.0
+Recall of Logistic Regression: 1.0
+F1-score of Logistic Regression: 1.0
+RocAuc score of Logistic Regression: 1.0
+
+Neural Networks statsAccuracy of Neural Networks: 1.0
+Precision of Neural Networks: 1.0
+Recall of Neural Networks: 1.0
+F1-score of Neural Networks: 1.0
+RocAuc score of Neural Networks: 1.0
+
+##################################
+Stats for sliding window size: 5
+
+Decision tree statsAccuracy of decision trees: 1.0
+Precision of decision trees: 1.0
+Recall of decision trees: 1.0
+F1-score of decision trees: 1.0
+RocAuc score of decision trees: 1.0
+
+Naive Bayes statsAccuracy of naive bayes: 0.8333333333333334
+Precision of naive bayes: 0.75
+Recall of naive bayes: 1.0
+F1-score of naive bayes: 0.8571428571428571
+RocAuc score of naive bayes: 0.8333333333333334
+
+SVM statsAccuracy of SVM: 1.0
+Precision of SVM: 1.0
+Recall of SVM: 1.0
+F1-score of SVM: 1.0
+RocAuc score of SVM: 1.0
+
+Random Forest statsAccuracy of Random Forest: 1.0
+Precision of Random Forest: 1.0
+Recall of Random Forest: 1.0
+F1-score of Random Forest: 1.0
+RocAuc score of Random Forest: 1.0
+
+Logistic Regression statsAccuracy of Logistic Regression: 1.0
+Precision of Logistic Regression: 1.0
+Recall of Logistic Regression: 1.0
+F1-score of Logistic Regression: 1.0
+RocAuc score of Logistic Regression: 1.0
+
+Neural Networks statsAccuracy of Neural Networks: 1.0
+Precision of Neural Networks: 1.0
+Recall of Neural Networks: 1.0
+F1-score of Neural Networks: 1.0
+RocAuc score of Neural Networks: 1.0
+
+##################################
+Stats for sliding window size: 10
+
+Decision tree statsAccuracy of decision trees: 1.0
+Precision of decision trees: 1.0
+Recall of decision trees: 1.0
+F1-score of decision trees: 1.0
+RocAuc score of decision trees: 1.0
+
+Naive Bayes statsAccuracy of naive bayes: 0.8333333333333334
+Precision of naive bayes: 0.75
+Recall of naive bayes: 1.0
+F1-score of naive bayes: 0.8571428571428571
+RocAuc score of naive bayes: 0.8333333333333334
+
+SVM statsAccuracy of SVM: 1.0
+Precision of SVM: 1.0
+Recall of SVM: 1.0
+F1-score of SVM: 1.0
+RocAuc score of SVM: 1.0
+
+Random Forest statsAccuracy of Random Forest: 1.0
+Precision of Random Forest: 1.0
+Recall of Random Forest: 1.0
+F1-score of Random Forest: 1.0
+RocAuc score of Random Forest: 1.0
+
+Logistic Regression statsAccuracy of Logistic Regression: 1.0
+Precision of Logistic Regression: 1.0
+Recall of Logistic Regression: 1.0
+F1-score of Logistic Regression: 1.0
+RocAuc score of Logistic Regression: 1.0
+
+Neural Networks statsAccuracy of Neural Networks: 1.0
+Precision of Neural Networks: 1.0
+Recall of Neural Networks: 1.0
+F1-score of Neural Networks: 1.0
+RocAuc score of Neural Networks: 1.0
+
+##################################
+Stats for sliding window size: 20
+
+Decision tree statsAccuracy of decision trees: 1.0
+Precision of decision trees: 1.0
+Recall of decision trees: 1.0
+F1-score of decision trees: 1.0
+RocAuc score of decision trees: 1.0
+
+Naive Bayes statsAccuracy of naive bayes: 0.8333333333333334
+Precision of naive bayes: 0.75
+Recall of naive bayes: 1.0
+F1-score of naive bayes: 0.8571428571428571
+RocAuc score of naive bayes: 0.8333333333333334
+
+SVM statsAccuracy of SVM: 1.0
+Precision of SVM: 1.0
+Recall of SVM: 1.0
+F1-score of SVM: 1.0
+RocAuc score of SVM: 1.0
+
+Random Forest statsAccuracy of Random Forest: 1.0
+Precision of Random Forest: 1.0
+Recall of Random Forest: 1.0
+F1-score of Random Forest: 1.0
+RocAuc score of Random Forest: 1.0
+
+Logistic Regression statsAccuracy of Logistic Regression: 1.0
+Precision of Logistic Regression: 1.0
+Recall of Logistic Regression: 1.0
+F1-score of Logistic Regression: 1.0
+RocAuc score of Logistic Regression: 1.0
+
+Neural Networks statsAccuracy of Neural Networks: 1.0
+Precision of Neural Networks: 1.0
+Recall of Neural Networks: 1.0
+F1-score of Neural Networks: 1.0
+RocAuc score of Neural Networks: 1.0
+
+##################################
+Stats for sliding window size: 1189
+
+Decision tree statsAccuracy of decision trees: 0.5
+Precision of decision trees: 0.5
+Recall of decision trees: 0.6666666666666666
+F1-score of decision trees: 0.5714285714285715
+RocAuc score of decision trees: 0.5
+
+Naive Bayes statsAccuracy of naive bayes: 1.0
+Precision of naive bayes: 1.0
+Recall of naive bayes: 1.0
+F1-score of naive bayes: 1.0
+RocAuc score of naive bayes: 1.0
+
+SVM statsAccuracy of SVM: 0.8333333333333334
+Precision of SVM: 1.0
+Recall of SVM: 0.6666666666666666
+F1-score of SVM: 0.8
+RocAuc score of SVM: 0.8333333333333333
+
+Random Forest statsAccuracy of Random Forest: 1.0
+Precision of Random Forest: 1.0
+Recall of Random Forest: 1.0
+F1-score of Random Forest: 1.0
+RocAuc score of Random Forest: 1.0
+
+Logistic Regression statsAccuracy of Logistic Regression: 0.6666666666666666
+Precision of Logistic Regression: 0.6
+Recall of Logistic Regression: 1.0
+F1-score of Logistic Regression: 0.7499999999999999
+RocAuc score of Logistic Regression: 0.6666666666666667
+
+Neural Networks statsAccuracy of Neural Networks: 0.5
+Precision of Neural Networks: 0.0
+Recall of Neural Networks: 0.0
+F1-score of Neural Networks: 0.0
+RocAuc score of Neural Networks: 0.5
+
+##################################
+Stats for sliding window size: 1199
+
+Decision tree statsAccuracy of decision trees: 0.6666666666666666
+Precision of decision trees: 0.6
+Recall of decision trees: 1.0
+F1-score of decision trees: 0.7499999999999999
+RocAuc score of decision trees: 0.6666666666666667
+
+Naive Bayes statsAccuracy of naive bayes: 1.0
+Precision of naive bayes: 1.0
+Recall of naive bayes: 1.0
+F1-score of naive bayes: 1.0
+RocAuc score of naive bayes: 1.0
+
+SVM statsAccuracy of SVM: 0.8333333333333334
+Precision of SVM: 1.0
+Recall of SVM: 0.6666666666666666
+F1-score of SVM: 0.8
+RocAuc score of SVM: 0.8333333333333333
+
+Random Forest statsAccuracy of Random Forest: 0.8333333333333334
+Precision of Random Forest: 1.0
+Recall of Random Forest: 0.6666666666666666
+F1-score of Random Forest: 0.8
+RocAuc score of Random Forest: 0.8333333333333333
+
+Logistic Regression statsAccuracy of Logistic Regression: 0.8333333333333334
+Precision of Logistic Regression: 0.75
+Recall of Logistic Regression: 1.0
+F1-score of Logistic Regression: 0.8571428571428571
+RocAuc score of Logistic Regression: 0.8333333333333334
+
+Neural Networks statsAccuracy of Neural Networks: 0.5
+Precision of Neural Networks: 0.5
+Recall of Neural Networks: 1.0
+F1-score of Neural Networks: 0.6666666666666666
+RocAuc score of Neural Networks: 0.5
+
